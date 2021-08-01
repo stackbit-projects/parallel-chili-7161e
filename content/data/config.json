@@ -26,7 +26,8 @@
             {
                 "label": "Style Guide",
                 "url": "/style-guide",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Sign Up",
